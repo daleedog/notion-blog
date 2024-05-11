@@ -319,7 +319,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
         pageCover={pageCover}
       />
 
-      <GitHubShareButton />
     </>
   )
 }
