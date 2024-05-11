@@ -9,9 +9,9 @@ export default siteConfig({
   //rootNotionSpaceId: 'fde5ac74eea345278f004482710e1af3',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'hack for fun',
+  domain: 'i.hackfor.fun',
+  author: 'dalee wong',
 
   // open graph metadata (optional)
   description: 'Personal site of Travis Fischer aka Transitive Bullshit',
@@ -52,7 +52,7 @@ export default siteConfig({
   },
 
   // whether to use the default notion navigation style or a custom one with links to
-  // important pages
+  // important pages/
   navigationStyle: 'custom',
   navigationLinks: [
     {
