@@ -53,15 +53,5 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages/
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'About',
-      pageId: '135b8d239095430b808726b25c71596f'
-    },
-    {
-      title: 'Contact',
-      pageId: '23583862b1be4973be8f53281b15b2b5'
-    }
-  ]
+
 })
