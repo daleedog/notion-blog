@@ -68,10 +68,10 @@
 .settings a,
 .social a {
   cursor: pointer;
-  font-size: 2em;
+  font-size: 0em;
   display: inline-flex;
-  padding: 0.25em;
-  margin-right: 1vw;
+  padding: 0em;
+  margin-right: 0vw;
   transition: color 250ms ease-out;
 }
 
