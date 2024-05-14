@@ -41,11 +41,11 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-  pageUrlOverrides: {
-     '/about': '135b8d239095430b808726b25c71596f',
-     '/contact': '23583862b1be4973be8f53281b15b2b5'
-  },
-  //pageUrlOverrides: null,
+  //pageUrlOverrides: {
+     //'/about': '135b8d239095430b808726b25c71596f',
+    // '/contact': '23583862b1be4973be8f53281b15b2b5'
+  //},
+  pageUrlOverrides: null,
 
   pageUrlAdditions: {
     '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
