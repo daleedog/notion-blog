@@ -46,7 +46,7 @@ export default siteConfig({
     // '/contact': '23583862b1be4973be8f53281b15b2b5'
   //},
   pageUrlOverrides: null,
-
+  includeNotionIdInUrls: true,
   pageUrlAdditions: {
     '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
   },
