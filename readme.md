@@ -16,7 +16,7 @@ This repo is what I use to power my personal blog and portfolio site
 
 It uses Notion as a CMS, [react-notion-x](https://github.com/NotionX/react-notion-x), [Next.js](https://nextjs.org/), and [Vercel](https://vercel.com).
 
-## Features
+## Featuress
 
 - Setup only takes a few minutes ([single config file](./site.config.ts)) 💪
 - Robust support for Notion content via [react-notion-x](https://github.com/NotionX/react-notion-x)
