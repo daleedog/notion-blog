@@ -33,7 +33,7 @@ It uses Notion as a CMS, [react-notion-x](https://github.com/NotionX/react-notio
 
 ## Demos
 
-- [Default demo](https://nextjs-notion-starter-kit.transitivebullsh.it) - Deployed from the `main` branch
+
 - [My site](https://transitivebullsh.it) - Deployed from the `transitive-bullshit` branch
 
 ## Setup
